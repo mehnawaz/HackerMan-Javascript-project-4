@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
+body{
+    background-image: url(img/wallpaperflare.com_wallpaper.jpg);
+    /* background-size: 1200PX 720PX; */
+    /* display: flex; */
+    color: red;
+}
+
+p{
+    color: red;
+    /* text-align: center; */
+    font-size: 40px;
+    
+}
+#text{
+    color:rgb(34, 202, 34);
+    font-family:  'PT Serif', serif;
+    font-size: 18px;
+    margin-left: 50px;
+    text-shadow: 1px 1px 5px rgb(34, 202, 34);
+    
+}
+h1{
+    font-size: 25px;
+}
